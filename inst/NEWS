@@ -1,0 +1,5 @@
+1.1
+	o modifications to include multinomial logistic regression models: multinom objects.
+	o modifications to include support vector machines.
+1.0
+    o initial version: including glm, coxph and mpf objects
