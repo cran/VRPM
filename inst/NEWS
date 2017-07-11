@@ -1,3 +1,5 @@
+1.2
+	o modification due to changes in web resources from ats.ucla.edu
 1.1
 	o modifications to include multinomial logistic regression models: multinom objects.
 	o modifications to include support vector machines.

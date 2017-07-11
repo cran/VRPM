@@ -78,7 +78,7 @@ The plot is not shown in a graphical window but saved in the current working dir
 }
 \examples{
 # default options
-mydata <- read.csv("http://www.ats.ucla.edu/stat/data/binary.csv")
+mydata <- read.csv("https://stats.idre.ucla.edu/stat/data/binary.csv")
 mydata$rank <- factor(mydata$rank)
 fit <- glm(admit ~ gre + gpa + rank, data = mydata, family = "binomial")
 colplot(fit)

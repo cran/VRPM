@@ -1,4 +1,4 @@
-0a8f1bf6cb9c8206dce77fc6738252b0 *DESCRIPTION
+e943e744a8f9047ac636ec5a2a438e14 *DESCRIPTION
 1d1ec28fc7a6037e05142d581ca410e0 *NAMESPACE
 64fc9d19783ea958359577632ca7ad2d *R/APPcode.R
 06e5842c92876c0a6f61afbeac8b8b8b *R/colplotcode.R
@@ -8,12 +8,12 @@ d454f76b007138aa66a0d23c7d637dba *R/generalcode.R
 bd01dfe420b99cd68bf28fe857ee8a0e *R/multinomLRcode.R
 dac29eb6fb127095a8ea7aed14ef98f1 *R/patientchartcode.R
 3a20912236c6d21253af1181fc87de6c *R/svm_code.R
-2b4dd7a2423ad6fa96f65b2903381730 *inst/NEWS
+ae9a595498d3d2373de67752e45d9153 *inst/NEWS
 2033edd60e41166edab399972f4529ec *inst/examples/Appex.R
 34f3e486d493d20b649f1b269c768486 *inst/examples/HTMLsummaryex.R
-f0970de6af600e6538a9ab15a6856d91 *inst/examples/ccchartex.R
-60aa76f35b3e9bc50023abf982c97a7f *inst/examples/cchartex.R
-f02c31d40eacd9eb49192b5951e90b2b *inst/examples/colplotex.R
+df5e9de28c5d0172ba008971be9b7370 *inst/examples/ccchartex.R
+c7280096ed4a024d299f9d16799bc304 *inst/examples/cchartex.R
+8f9bdf401ab9473ae950d177edbadd57 *inst/examples/colplotex.R
 89fca395ce97787fb41466878092e5b5 *inst/examples/plotperfex.R
 a97f544f2c698ca2b07c66b9b03528a2 *inst/shiny-examples/IntermittentClaudication/ccchart.png
 ca47802b31e9fb7846582e5187a835a9 *inst/shiny-examples/IntermittentClaudication/cchart.png
@@ -81,9 +81,9 @@ f7781329dd25c06a1b6674696f0fc726 *inst/shiny-examples/xsnz/server.R
 609a664b06cd5717222f14eb3d57d001 *inst/shiny-examples/xsnz/ui.R
 8cf9d759b837e56a1d2ce1e8596585e5 *inst/shiny-examples/xsnz/www/empty.png
 321ef376be7115d742855ca09852d6a4 *man/HTMLsummary.Rd
-bc5d2ab16c21034e528f44d1739ef36c *man/ccchart.Rd
-58b626c695ffac5a8e345f56e55bca5d *man/cchart.Rd
-adcd7073c2edb03fb4b979aa33a55059 *man/colplot.Rd
+a723a62ebba49af4322b7ca18c5b0299 *man/ccchart.Rd
+df59dd969c699b27cbc6e8b18f850ddd *man/cchart.Rd
+ba445ddfb91af9b9ee6c147ed5ebf578 *man/colplot.Rd
 709b2f22962f0049dd11d5705df776be *man/plotperf.Rd
 a5003265ccc3207ddc560288734a1695 *man/preplotperf.Rd
 ab196833137d6ce85a400d487511149e *man/runVRPMexample.Rd

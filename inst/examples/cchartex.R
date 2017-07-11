@@ -1,5 +1,5 @@
 #### logistic regression
-mydata <- read.csv("http://www.ats.ucla.edu/stat/data/binary.csv")
+mydata <- read.csv("https://stats.idre.ucla.edu/stat/data/binary.csv")
 mydata$rank <- factor(mydata$rank)
 fit <- glm(admit ~ gre + gpa + rank, data = mydata, family = "binomial")
 patient1=data.frame(gre=386,gpa=3.58,rank=3)
